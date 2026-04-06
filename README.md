@@ -34,7 +34,7 @@
 > **Add your dashboard screenshot below by replacing the comment:**
 
 ```
-<!-- <img src="Images/dashboard_preview.png" width="90%" alt="Dashboard Preview"/> -->
+<img src="Images/dashboard_preview.png" width="90%" alt="Dashboard Preview"/>
 ```
 
 </div>
