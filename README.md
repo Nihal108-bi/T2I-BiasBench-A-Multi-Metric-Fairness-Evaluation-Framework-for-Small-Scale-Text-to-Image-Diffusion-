@@ -31,11 +31,9 @@
 
 ### 🌐 Live Dashboard — [https://ancha2003.github.io/Fairness-Bias-Evaluation-/](https://ancha2003.github.io/Fairness-Bias-Evaluation-/)
 
-> **Add your dashboard screenshot below by replacing the comment:**
 
-```
 <img src="Images/dashboard_preview.png" width="90%" alt="Dashboard Preview"/>
-```
+
 
 </div>
 
