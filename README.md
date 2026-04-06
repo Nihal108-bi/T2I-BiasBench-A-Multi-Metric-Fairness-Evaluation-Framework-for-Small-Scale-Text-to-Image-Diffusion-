@@ -381,7 +381,7 @@ OUTPUT_DIR = "Images/SD/"      # or BK-SDM/, Koala/, Gemini/
 ### Step 2 — Generate Captions (via Gemini API)
 
 ```python
-# Use Gemini API to caption each image
+# Use gpt-5 to caption each image
 # Output CSV columns:
 #   image_path | prompt | caption | model | prompt_id
 
