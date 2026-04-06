@@ -336,22 +336,7 @@ Gemini    ░░░░░░░░░░░░░░ 0% Male · 100% Female ← 
 
 </div>
 
----
 
-## ⚙️ Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/ancha2003/Fairness-Bias-Evaluation-.git
-cd Fairness-Bias-Evaluation-
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate      # Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-```
 
 ### `requirements.txt`
 ```
@@ -423,21 +408,6 @@ CSV_PATH = "Captions_of_all_Model_Generate_by_GPT/SD.csv"
 #          hallucination_score | vendi_score | clip_proxy | cultural_accuracy
 ```
 
-### Step 4 — View Dashboards
-
-```bash
-# Option A: Open locally
-open Dashboard/index.html             # macOS
-start Dashboard\index.html            # Windows
-
-# Option B: Serve locally
-python -m http.server 8080
-# Visit: http://localhost:8080/Dashboard/index.html
-
-# Option C: Visit live version
-# https://ancha2003.github.io/Fairness-Bias-Evaluation-/
-```
-
 ---
 
 ## 📁 File Connection Map
@@ -485,19 +455,6 @@ Dashboard/
          ▼
   https://ancha2003.github.io/Fairness-Bias-Evaluation-/
 ```
-
----
-
-## 🏷️ GitHub Topics
-
-```
-bias-detection  text-to-image  fairness-evaluation  diffusion-models
-stable-diffusion  generative-ai  ai-ethics  demographic-bias
-bias-amplification  cultural-representation  final-year-project
-python  jupyter-notebook  evaluation-framework  computer-vision
-```
-
----
 
 ## 📚 Key References
 
