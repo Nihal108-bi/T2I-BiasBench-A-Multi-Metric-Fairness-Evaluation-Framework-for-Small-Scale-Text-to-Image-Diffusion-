@@ -38,6 +38,20 @@
 </div>
 
 ---
+---
+
+## 📸 Full framework Architechture
+
+<div align="center">
+
+
+
+<img src="Images/framework_archi.jpg" width="90%" alt="Framework"/>
+
+
+</div>
+
+---
 
 ## 📊 Sample Generated Images — 5 × 4 Gallery
 
@@ -125,9 +139,9 @@ T2I-BiasBench/
                              │  1,574 PNG images at 512×512
                              ▼
   ┌─────────────────────────────────────────────────────────────────────────────┐
-  │  STEP 2 — CAPTION GENERATION  (Gemini API)                                  │
+  │  STEP 2 — CAPTION GENERATION  (GPT-5)                                  │
   │                                                                             │
-  │  Each image → Gemini 2.5 Flash API → Natural-language caption               │
+  │  Each image → GPT-5 → Natural-language caption               │
   │                                                                             │
   │  Output: Captions_of_all_Model_Generate_by_GPT/                            │
   │    SD.csv         (496 captions)                                            │
