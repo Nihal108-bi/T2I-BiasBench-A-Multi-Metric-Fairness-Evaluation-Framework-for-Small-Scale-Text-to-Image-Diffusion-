@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Live Dashboard](https://img.shields.io/badge/🌐_Live_Dashboard-Visit_Now-6C63FF?style=for-the-badge)](https://ancha2003.github.io/Fairness-Bias-Evaluation-/)
+[![Live Dashboard](https://img.shields.io/badge/🌐_Live_Dashboard-Visit_Now-6C63FF?style=for-the-badge)](https://nihal108-bi.github.io/T2I-BiasBench-A-Multi-Metric-Framework-for-Auditing-Demographic-and-Cultural-Bias-in-Text-to-Image-/index.html)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/ancha2003/Fairness-Bias-Evaluation-)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
@@ -321,11 +321,11 @@ Gemini    ░░░░░░░░░░░░░░ 0% Male · 100% Female ← 
 
 | Dashboard | Model | Theme | Link |
 |:---:|:---:|:---:|:---:|
-| 📊 **Comparative Analysis** | All 4 Models | Multi-colour | [**Open →**](https://nihal108-bi.github.io/Fairness-Bias-Evaluation-/) |
-| 📘 **SD v1.5** | Stable Diffusion | Blue | [Open →](https://nihal108-bi.github.io/Fairness-Bias-Evaluation-/SD_Dashboard.html) |
-| 📗 **BK-SDM** | BK-SDM Base | Pink | [Open →](https://nihal108-bi.github.io/Fairness-Bias-Evaluation-/BkSDM_Dashboard.html) |
-| 📙 **Koala** | Koala Lightning | Purple | [Open →](https://nihal108-bi.github.io/Fairness-Bias-Evaluation-/Koala_Dashboard.html) |
-| 📕 **Gemini** | Gemini 2.5 Flash | Green | [Open →](https://nihal108-bi.github.io/Fairness-Bias-Evaluation-/Gemini_Dashboard.html) |
+| 📊 **Comparative Analysis** | All 4 Models | Multi-colour | [**Open →**](https://nihal108-bi.github.io/T2I-BiasBench-A-Multi-Metric-Framework-for-Auditing-Demographic-and-Cultural-Bias-in-Text-to-Image-/) |
+| 📘 **SD v1.5** | Stable Diffusion | Blue | [Open →](https://nihal108-bi.github.io/T2I-BiasBench-A-Multi-Metric-Framework-for-Auditing-Demographic-and-Cultural-Bias-in-Text-to-Image-/SD_Dashboard.html) |
+| 📗 **BK-SDM** | BK-SDM Base | Pink | [Open →](https://nihal108-bi.github.io/T2I-BiasBench-A-Multi-Metric-Framework-for-Auditing-Demographic-and-Cultural-Bias-in-Text-to-Image-/BkSDM_Dashboard.html) |
+| 📙 **Koala** | Koala Lightning | Purple | [Open →](https://nihal108-bi.github.io/T2I-BiasBench-A-Multi-Metric-Framework-for-Auditing-Demographic-and-Cultural-Bias-in-Text-to-Image-/Koala_Dashboard.html) |
+| 📕 **Gemini** | Gemini 2.5 Flash | Green | [Open →](https://nihal108-bi.github.io/T2I-BiasBench-A-Multi-Metric-Framework-for-Auditing-Demographic-and-Cultural-Bias-in-Text-to-Image-/Gemini_Dashboard.html) |
 
 ### Each Dashboard Contains
 - **7 tabs**: Beauty · Doctor · Animal · Nature · Culture · Summary · Metrics Reference
@@ -501,7 +501,7 @@ Dashboard/
   year    = {2026},
   school  = {Department of Information Technology, REC Banda},
   note    = {Supervisor: Mr. Gyanendra Chaubey, IIT Jodhpur},
-  url     = {https://github.com/ancha2003/Fairness-Bias-Evaluation-}
+  url     = {https://nihal108-bi.github.io/T2I-BiasBench-A-Multi-Metric-Framework-for-Auditing-Demographic-and-Cultural-Bias-in-Text-to-Image-/}
 }
 ```
 
