@@ -500,7 +500,7 @@ Dashboard/
              Singh, Aditya and Kumar, Ankush},
   year    = {2026},
   school  = {Department of Information Technology, REC Banda},
-  note    = {Supervisor: Dr. Gyanendra Chaubey, IIT Jodhpur},
+  note    = {Supervisor: Mr. Gyanendra Chaubey, IIT Jodhpur},
   url     = {https://github.com/ancha2003/Fairness-Bias-Evaluation-}
 }
 ```
@@ -511,7 +511,7 @@ Dashboard/
 
 **Made with ❤️ by Team NAAA**
 
-[![Live Dashboard](https://img.shields.io/badge/🌐_Open_Live_Dashboard-6C63FF?style=for-the-badge)](https://nihal108-bi.github.io/Fairness-Bias-Evaluation-/)
+[![Live Dashboard](https://img.shields.io/badge/🌐_Open_Live_Dashboard-6C63FF?style=for-the-badge)](https://nihal108-bi.github.io/T2I-BiasBench-A-Multi-Metric-Framework-for-Auditing-Demographic-and-Cultural-Bias-in-Text-to-Image-/)
 
 ⭐ **Star this repo if it helped your research!** ⭐
 
